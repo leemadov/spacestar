@@ -1,0 +1,16 @@
+p {
+    font-size: 50px;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+img {
+    box-shadow: black 0px 0px 10px;
+    border-radius: 10px;
+    align-self: center;
+}
+
+h1 {
+    font-size: 27px;
+    font-family: Impact;
+}
